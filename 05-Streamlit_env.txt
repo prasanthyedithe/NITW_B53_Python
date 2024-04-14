@@ -1,0 +1,12 @@
+pip install streamlit
+pip install plotly
+pip install matplotlib
+pip install seaborn
+---------------------------------------
+conda create -n streamlit
+conda activate streamlit
+-------------------------------------
+conda install -c conda-forge streamlit
+pip install plotly
+pip install matplotlib
+pip install seaborn
